@@ -1,0 +1,21 @@
+table,th,tr,td{
+    border:2px solid black;
+    border-collapse: collapse;
+    width:75px;
+}
+td{
+    color:blue;
+}
+th{
+    width:20px;
+    height:30px;
+    background-color: yellow;
+}
+body{
+    background-color: bisque;
+    margin:50px;
+}
+table{
+    height: 70px;
+    width:75%;
+}
